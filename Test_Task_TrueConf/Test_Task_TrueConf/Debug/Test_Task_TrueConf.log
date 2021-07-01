@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Александр\source\repos\Test_Task_TrueConf\Test_Task_TrueConf\main.cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Test_Task_TrueConf.vcxproj -> C:\Users\Александр\source\repos\Test_Task_TrueConf\Debug\Test_Task_TrueConf.exe
